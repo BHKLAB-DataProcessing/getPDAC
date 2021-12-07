@@ -15,7 +15,7 @@ library(EnsDb.Hsapiens.v86)
 Sys.setenv(VROOM_CONNECTION_SIZE=131072 * 7) 
 
 # script_dir <- "~/Documents/work/ORCESTRA/MetaGxPancreas-Update/code/"
-script_dir <- "/pfs/getPDCA/"
+script_dir <- "/pfs/getPDAC/"
 
 source(paste0(script_dir, "BADEA.R"))
 source(paste0(script_dir, "BALAGURANATH.R"))
