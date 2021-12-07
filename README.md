@@ -1,3 +1,3 @@
-# getPDCA
+# getPDAC
 
-Pipeline to curate PDCA datasets
+Pipeline to curate PDAC datasets
