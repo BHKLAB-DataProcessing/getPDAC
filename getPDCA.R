@@ -12,6 +12,8 @@ if(!require("EnsDb.Hsapiens.v86", quietly=TRUE)){
 }
 library(EnsDb.Hsapiens.v86)
 
+Sys.setenv(VROOM_CONNECTION_SIZE=500072) 
+
 # script_dir <- "~/Documents/work/ORCESTRA/MetaGxPancreas-Update/code/"
 script_dir <- "/pfs/getPDCA/"
 
