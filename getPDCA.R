@@ -13,7 +13,7 @@ if(!require("EnsDb.Hsapiens.v86", quietly=TRUE)){
 library(EnsDb.Hsapiens.v86)
 
 # script_dir <- "~/Documents/work/ORCESTRA/MetaGxPancreas-Update/code/"
-script_dir <- "/pfs/getPDSC/"
+script_dir <- "/pfs/getPDCA/"
 
 source(paste0(script_dir, "BADEA.R"))
 source(paste0(script_dir, "BALAGURANATH.R"))
