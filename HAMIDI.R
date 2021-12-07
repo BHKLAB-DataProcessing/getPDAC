@@ -46,7 +46,7 @@ getHamidi <- function(){
     name = "HAMIDI",
     lab = "",
     contact = "",
-    title = NA,
+    title = "Hamidi H et al",
     abstract = "",
     pubMedIds = "",
     url = "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE77858",
